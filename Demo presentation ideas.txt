@@ -1,0 +1,57 @@
+Initial ideas for the demo presentation:
+
+Definition: Should be a pre-rendered animation with audio
+Length: to be defined
+Frame Resolution: Triple 4k (11520x1080 px) or three side-by-side 4k screens (3840x1080 px)
+
+==================================
+
+1) A collage of short animations made by individual students separated by a standard vignette identifying each student and explaining his/her work
+
+2) To model an environment like a plaza, a city, UHV campus, etc. in where the camera does a "fly-by" animation passing by individual animations made by the students (properly identified in the environment with a sign or flag)
+
+3) To write an actual script (story) that should use all of the most common animation and modeling techniques 
+
+===================================
+
+Animation Techniques to be demoed:
+
+12 principles of animation:
+- Pose-to-Pose / Straight-ahead
+- Timing / Spacing
+- Ease-In / Ease-Out
+- Squash / Stretch
+- Anticipation / Follow Through / Overlapping Action
+- Secondary actions
+- Exaggeration
+- Arcs
+- Staging / Appeal
+
+Keyframing:
+- In-betweening
+- Path follow
+- Tracking
+
+Pantomime:
+- Body postures
+- Facial expressions
+- Lip syncing
+- Motion capture
+
+Physically-based Simulations:
+- Rigid bodies
+- Soft Bodies
+- Cel Fracture
+- Cloth
+- Particle systems
+- Natural phenomena
+    - Liquid
+	- Smoke & Fire
+- Hair & Fur
+
+Group Controls:
+- Steering behaviors
+- Crowd simulation	
+
+VFX:
+- Compositing
